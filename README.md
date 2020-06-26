@@ -1,2 +1,2 @@
 # diceroller
-DnD Diceroller.  Made on a MAC
+DnD Diceroller.  Made on a mac
